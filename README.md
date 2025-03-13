@@ -6,7 +6,7 @@
 
 Discord : [@3nvieux](https://github.com/3nvieux) | 
 X (Twitter) : [@3nvieux](https://x.com/3nvieux) | 
-PayPal : [@3nvieux](paypal.me/3nvieux)
+PayPal : [@3nvieux](https://paypal.me/3nvieux)
 
 <img src="tarifs.png" width="500">
 
