@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**3nvieux/3nvieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Bienvenue sur mon GitHub 💻  
+<p>Je suis Envie, un développeur informatique polyvalent</p>
+<h3>Suis-moi sur mes réseaux sociaux :</h3>
 
-Here are some ideas to get you started:
+Discord : [@3nvieux](https://github.com/3nvieux) | 
+X (Twitter) : [@3nvieux](https://x.com/3nvieux) | 
+PayPal : [@3nvieux](paypal.me/3nvieux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/user-attachments/assets/3309a257-0080-4ec8-b3e2-882c9e136867" width="500">
+
+</div>
