@@ -1,8 +1,8 @@
 <div align="center">
 
 # 💻 Bienvenue sur mon GitHub 💻
-<p>Je suis Envie, un développeur informatique polyvalent ! Mes passions ? Coder, manger, jouer, dormir.</p>
-<p>Je code depuis 7 ans en Python, Java, SQL, PHP, HTML et en CSS.</p>
+<p>Je suis Envie, un développeur informatique polyvalent ! Mes passions ? Les jeux vidéos, la modération et la programmation.</p>
+<p>Je code depuis 7 ans. Je sais coder en en Python, Java, SQL, PHP, HTML et en CSS.</p>
 <h3>Suis-moi sur mes réseaux sociaux :</h3>
 
 Discord : [@3nvieux](https://github.com/3nvieux) | 
