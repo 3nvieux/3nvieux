@@ -5,7 +5,7 @@
 <p>Je code depuis 7 ans. Je sais coder en en Python, Java, SQL, PHP, HTML et en CSS.</p>
 <h3>Comment me mp ? Via mes réseaux (de préférence Discord) :</h3>
 
-Discord : [@3nvieux](https://github.com/3nvieux) | TikTok : [@3nvieux](https://tiktok.com/@3nvieux) | X (Twitter) : [@3nvieux](https://x.com/3nvieux) | PayPal : [@3nvieux](https://paypal.me/3nvieux)
+Discord : [@3nvieux](https://github.com/3nvieux) | TikTok : [@3nvieux](https://tiktok.com/@3nvieux) | X (Twitter) : [@3nvieux](https://x.com/3nvieux)
 
 <img src="tarifs.png" width="500">
 
