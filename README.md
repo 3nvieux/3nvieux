@@ -7,7 +7,6 @@
 
 Discord : [@3nvieux](https://github.com/3nvieux) | TikTok : [@3nvieux](https://tiktok.com/@3nvieux) | X (Twitter) : [@3nvieux](https://x.com/3nvieux)
 
-<img width="500" alt="tarifs.png" src="https://github.com/user-attachments/assets/8a86c863-8d30-455b-b930-c81fa641acee" />
-
+<img width="500" alt="tarifs.png" src="https://github.com/user-attachments/assets/17db248a-cfeb-49b4-98b3-f290a7ab0d81" />
 
 </div>
